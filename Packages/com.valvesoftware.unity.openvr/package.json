@@ -22,7 +22,10 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.legacyinputhelpers": "2.1.4"
   },
-  "author": "Valve Corporation",
+  "author": {
+    "name": "Valve Corporation",
+    "email": "gaben@valvesoftware.com"
+  },
   "hideInEditor": false,
   "homepage": "https://github.com/ValveSoftware/unity-xr-plugin",
   "license": "BSD-3-Clause"
